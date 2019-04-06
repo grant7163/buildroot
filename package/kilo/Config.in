@@ -1,4 +1,4 @@
 config BR2_PACKAGE_KILO
         bool "kilo"
         help
-          This is a small text editor
+          a small text editor
